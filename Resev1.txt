@@ -1,0 +1,12 @@
+Distrito        1   2   3   4   5
+Juan Montes    194 180 221 432 820
+Pedro Zapata   48  20  90  50  61
+Ana Martinez   206 320 140 821 946
+Rogelio Guerra 45  16  20  14  18
+Votos totales: 4662
+Juan Montes tiene 1847 votos
+Pedro Zapata tiene 269 votos
+Ana Martinez tiene 2433 votos
+Rogelio Guerra tiene 113 votos
+El ganador de las elecciones es: 
+Ana Martinez
